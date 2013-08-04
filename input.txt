@@ -4,7 +4,6 @@
 1 foot = 0.03048 m
 1 fath = 1.8288 m
 1 furlong = 201.17 m
-
 1.2 miles
 0.15 yard
 32.7 inches
@@ -12,7 +11,6 @@
 22 faths
 0.032 furlong
 1 furlong + 2.5 feet
-0.9 mile - 18 inches
+0.9 miles - 18 inches
 1 fath - 1 foot + 12.5 inches
 3.02 miles + 17.5 yards - 0 fath
-
